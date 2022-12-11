@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; configuration.title = "LOG IN"; ObjectID = "2jI-Uv-aoh"; */
+"2jI-Uv-aoh.configuration.title" = "ВОЙТИ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2jI-Uv-aoh"; */
+"2jI-Uv-aoh.normalTitle" = "Пуговица";
+
+/* Class = "UINavigationItem"; title = "WELCOME"; ObjectID = "84H-E5-mf9"; */
+"84H-E5-mf9.title" = "ДОБРО ПОЖАЛОВАТЬ";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "b75-8k-z2U"; */
+"b75-8k-z2U.placeholder" = "ИМЯ ПОЛЬЗОВАТЕЛЯ";
+
+/* Class = "UIButton"; configuration.title = "REGISTER"; ObjectID = "tma-63-uZV"; */
+"tma-63-uZV.configuration.title" = "РЕГИСТРИРОВАТЬ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tma-63-uZV"; */
+"tma-63-uZV.normalTitle" = "Пуговица";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "zz4-q1-JYv"; */
+"zz4-q1-JYv.placeholder" = "ПАРОЛЬ";
